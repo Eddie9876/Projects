@@ -16,4 +16,8 @@
       3. Then how much you paid for the fee
       4. How much then item was when you bought it
       5. Finally it will give you the profit/revenue you made on the item
+## WebPage
+- There is another file in this Repoository called "Actual_app.py"
+  - This is gonna be a web framework in order for us to use the original file(DepopCalc.py) in order for us to put in a website
+  - S**till working on it for now**
 
